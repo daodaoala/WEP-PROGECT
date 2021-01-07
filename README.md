@@ -9,3 +9,4 @@
 
 ### YOLO옵서예 메인 화면
 <img src = "https://user-images.githubusercontent.com/67010327/103849717-cacd0280-50e8-11eb-8c85-fd3c0dbe3b36.png">
+<img src = "https://user-images.githubusercontent.com/67010327/103850056-ab82a500-50e9-11eb-886f-2546656778ba.png">
