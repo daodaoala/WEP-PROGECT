@@ -8,3 +8,4 @@
 * 타겟 사이트인 VISIT 제주 사이트에서 리뷰 수 높은 순으로 선정
 
 ### YOLO옵서예 메인 화면
+<img src = https://github.com/daodaoala/WEP-PROGECT/issues/1#issue-781009862/>
