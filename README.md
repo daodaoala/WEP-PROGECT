@@ -43,22 +43,21 @@ Yolo Obseoye requires Node.js v6+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
-$ cd YOLO-obseoye
-$ npm install -d
-$ node app.js
+![image](https://user-images.githubusercontent.com/67010327/122671390-46d38680-d201-11eb-98ec-6881e96a590b.png)
+
 
 ## Development
 Open your favorite Terminal and run these commands.
 
-$ node app.js
+![image](https://user-images.githubusercontent.com/67010327/122671395-4dfa9480-d201-11eb-9b56-e939a48561bf.png)
 
 By default, the default will be configured by port 3000, so change this within the app.js if necessary. When ready, simply modify the app.js to operate other port.
 
-const port = process.env.PORT || ${port};
+![image](https://user-images.githubusercontent.com/67010327/122671404-55ba3900-d201-11eb-8725-2c6ed0898b39.png)
 
 Verify the deployment by navigating to your server address in your preferred browser.
 
-127.0.0.1:port
+![image](https://user-images.githubusercontent.com/67010327/122671411-61a5fb00-d201-11eb-9632-c9797025ab1a.png)
 
 ## Heroku
 This web site use Heroku to deployment application. If you wanna deploy your application, follow below steps.
@@ -67,16 +66,12 @@ To deploy your application on Heroku, you need to download and install the Herok
 
 First, Login to Heroku
 
-$ heroku login
+![image](https://user-images.githubusercontent.com/67010327/122671417-6a96cc80-d201-11eb-9363-c1c021365652.png)
 
 Second, Create a new Git repository
 
-$ cd YOLO-obseoye
-$ git init
-$ heroku git:remote -a Yolo-obseoye
+![image](https://user-images.githubusercontent.com/67010327/122671426-72ef0780-d201-11eb-9502-1a1e6fbbc300.png)
 
 Third, Deploy your application
 
-git add .
-git commit -am "commit message"
-git push heroku master
+![image](https://user-images.githubusercontent.com/67010327/122671430-7aaeac00-d201-11eb-9067-5df634418af7.png)
