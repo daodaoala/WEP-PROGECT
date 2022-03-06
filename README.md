@@ -27,6 +27,13 @@
 ## YOLO옵서예 4번째 페이지
 <img width = "700" src = "https://user-images.githubusercontent.com/67010327/103907337-7ce5e800-5144-11eb-921f-ffe1995403a7.png">
 
+## Introduction
+Yolo Obseoye is a web site introducing attractions, restaurants and activities of Jeju island in Korea
+
+* introduces information of attractions, restaurants and activities
+* provides information of the top 20 for each
+* moves to instagram or map page using link
+
 ## Tech
 Yolo Obseoye uses a number of open source projects to work properly:
 
