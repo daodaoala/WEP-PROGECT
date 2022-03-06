@@ -1,4 +1,4 @@
-# WEP-PROGECT
+# Yolo Obseoye
 
 ## YOLO옵서예
 * Team project for Web Programming
